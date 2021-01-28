@@ -2,7 +2,7 @@
 
 ## I'm a University Student and a Developer
 
-- 🔭 I’m currently working on my personal [blog website](https://blog.ichiroukeita.tk) (currently down)
+- 🔭 I’m currently working on my personal [blog website](https://blog.ichiroukeita.tk)
 - 🌱 I’m currently learning React, C, C++, maybe C# in the future
 - ❤ My favorite language is C
 - 😄 Pronouns: he/him
